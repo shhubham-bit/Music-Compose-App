@@ -2,11 +2,9 @@
 
 Welcome to **MyComposeApp**! This is an Android application built using the Jetpack Compose UI framework. Jetpack Compose simplifies and accelerates UI development on Android by using a modern, declarative approach.
 
-<img width="357" alt="Screenshot 2024-08-20 at 10 32 22 PM" src="https://github.com/user-attachments/assets/bd854ba6-f0ee-4452-8672-58f4eb734f8e">
+## Sample Video
 
-<img width="370" alt="Screenshot 2024-08-20 at 10 53 32 PM" src="https://github.com/user-attachments/assets/933239c2-a8c2-4e17-8e1f-52ac1414af6f">
-<img width="359" alt="Screenshot 2024-08-20 at 10 54 16 PM" src="https://github.com/user-attachments/assets/0139fbc5-3349-41c8-9256-f1a5461e7135">
-<img width="362" alt="Screenshot 2024-08-20 at 10 54 38 PM" src="https://github.com/user-attachments/assets/6179e075-ba1a-457a-9679-33fb22085ac9">
+https://github.com/user-attachments/assets/e52e36ac-3013-4c4e-a4da-f8945e57ff5b
 
 ## Features
 
@@ -20,6 +18,8 @@ Welcome to **MyComposeApp**! This is an Android application built using the Jetp
   - Showcases a selection of the newest albums and songs.
   - Allows users to quickly browse and discover fresh music releases.
   - Utilizes a grid or list layout for easy navigation through album covers and song titles.
+  
+ <img width="357" alt="Screenshot 2024-08-20 at 10 32 22 PM" src="https://github.com/user-attachments/assets/bd854ba6-f0ee-4452-8672-58f4eb734f8e">
 
 ### 2. Album Detail Page
 
@@ -32,12 +32,16 @@ Welcome to **MyComposeApp**! This is an Android application built using the Jetp
   - Includes smooth animations when transitioning from the Home Screen to the Album Detail Page.
   - Ensures a visually engaging experience with animated transitions and interactions.
 
+<img width="359" alt="Screenshot 2024-08-20 at 10 54 16 PM" src="https://github.com/user-attachments/assets/0139fbc5-3349-41c8-9256-f1a5461e7135">
+
 ### 3. Floating Player
 
 - **Persistent Playback Controls**:
   - A floating player that remains visible across all screens, allowing users to manage music playback easily.
   - Includes basic controls such as play, pause, and skip, as well as indicators for the currently playing song.
   - Designed to be non-intrusive yet accessible, enhancing the user experience without interrupting their interaction with other parts of the app.
+
+ <img width="370" alt="Screenshot 2024-08-20 at 10 53 32 PM" src="https://github.com/user-attachments/assets/933239c2-a8c2-4e17-8e1f-52ac1414af6f">
 
 ### 4. Player Detail Bottom Sheet
 
@@ -49,6 +53,8 @@ Welcome to **MyComposeApp**! This is an Android application built using the Jetp
 - **Interactive Elements**:
   - Incorporates interactive elements such as sliders for adjusting playback position and volume.
   - Allows users to quickly access and control playback settings without leaving their current screen.
+
+  <img width="362" alt="Screenshot 2024-08-20 at 10 54 38 PM" src="https://github.com/user-attachments/assets/6179e075-ba1a-457a-9679-33fb22085ac9">
 
 ## Additional Features
 
@@ -75,9 +81,7 @@ Welcome to **MyComposeApp**! This is an Android application built using the Jetp
 - **Model-View-Intent (MVI)**: Applied for managing UI state and ensuring a clear separation of concerns.
 
 
-## Sample Video
 
-https://github.com/user-attachments/assets/e52e36ac-3013-4c4e-a4da-f8945e57ff5b
 
 
 Code is in dev branch.
